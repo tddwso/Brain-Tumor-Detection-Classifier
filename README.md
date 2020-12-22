@@ -3,7 +3,7 @@
 ## 背景介紹:
 此次為分辨腦部斷層掃描片中是否長有腦瘤。
 
-![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
+![image](https://github.com/tddwso/Brain-Tumor-Detection-Classifier-by-Deep-Learning/blob/main/pic2.PNG)
 
 ## 預計完成目標:
 以卷積神經網絡(Convolutional Neural Network)學習分辨OK及NG品。
@@ -16,7 +16,7 @@ Python 3.8
 
 TensorFlow 2.3.1 
 ## 訓練和測試結果
-最佳模型訓練準確度100% 
+最佳模型訓練準確度84% 
 
 ![image](https://github.com/tddwso/label-identity/blob/main/ACC.PNG)
 
