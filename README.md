@@ -18,7 +18,7 @@ TensorFlow 2.3.1
 ## 訓練和測試結果
 最佳模型訓練準確度84% 
 
-![image](https://github.com/tddwso/label-identity/blob/main/ACC.PNG)
+![image](https://github.com/tddwso/Brain-Tumor-Detection-Classifier-by-Deep-Learning/blob/main/ACC.PNG)
 
 ROC曲線 (Receiver operating characteristic curve) & AUC (Area Under Curve)
 
