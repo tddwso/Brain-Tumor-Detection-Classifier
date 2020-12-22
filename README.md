@@ -1,7 +1,7 @@
 # Brain-Tumor-Detection-Classifier
 
 ## 背景介紹:
-此次為分辨Uniqlo產品標籤屬於OK或NG(分為走紗及油汙)品。
+此次為分辨腦部斷層掃描片中是否長有腦瘤。
 
 ![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
 
@@ -10,7 +10,7 @@
 運用Transfer Learning(遷移式學習)，將他人訓練好的(pre-trained model)參數複製過來，當作我們模型參數，
 使用的模型: VGG16，VGG 是英國牛津大學 Visual Geometry Group 的縮寫，主要貢獻是使用更多的隱藏層，大量的圖片訓練，提高準確率至90%。
 ## 資料集:
-Train Data : 360
+Train Data : 243
 ## 使用環境:
 Python 3.8
 
