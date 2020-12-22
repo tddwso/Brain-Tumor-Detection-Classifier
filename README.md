@@ -26,9 +26,9 @@ ROC曲線會以對角線為基準，曲線下的面積(AUC)來判別ROC曲線的
 
 ![image](https://github.com/tddwso/Brain-Tumor-Detection-Classifier-by-Deep-Learning/blob/main/ROC.png)
 
-實際測試結果(產品分類編號['走紗': 0, '油汙': 1, 'OK': 2]
+實際測試結果
 
-![image](https://github.com/tddwso/label-identity/blob/main/test1.PNG)
+![image](https://github.com/tddwso/Retina/blob/main/test1.PNG)
 
 ## 使用Streamlit App展示成果
 
